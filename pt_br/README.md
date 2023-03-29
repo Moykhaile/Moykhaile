@@ -20,3 +20,4 @@
 ## Entre em contato:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=20344c&labelColor=20344c&logoColor=6bd9a7
 )](mailto:moykhaile.contact@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=20344c&labelColor=20344c&logoColor=6bd9a7)](https://www.linkedin.com/in/gabriel-ramalho-rodrigues-1a50a1169/)
