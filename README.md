@@ -1,4 +1,4 @@
-[<img style="float:right" src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="25em"/>](https://github.com/Moykhaile/Moykhaile/pt_br/README.md)
+[<img style="float:right" src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="25em"/>](https://github.com/Moykhaile/Moykhaile/pt_br/)
 
 ## Hi! I am Gabriel, but you can call me Moyk!
 ### I'm a Brazilian developer and a software engineering student!
